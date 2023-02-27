@@ -1,4 +1,5 @@
-# ProjectPD
-Identification process for classifying rice types based on their color
+## Data Mining Lesson Project
+built a web to identify rice images and classify them by color
 
-Project was built with html, css and javascript and styling with Tailwind CSS
+Project was built with python, html and javascript and styling with Tailwind CSS
+[Click here for preview project](https://hibatillah.github.io/ProjectPD)
