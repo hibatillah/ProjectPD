@@ -1,6 +1,6 @@
-## Data Mining Lesson Project
-Web to identify types of rice and classify them by color.<br>
-The **dataset and .h5 file** can get [here](https://drive.google.com/drive/folders/1RC3583c2NkAN5ieJKZYOyJdoEUEnSa2D?usp=sharing)
+## Web Identification of Rice Types based on Color
 
-Project was built with Python for identify process, HTML, Javascript and styling with TailwindCSS.<br>
+This was project for 3rd semester of Data Mining course at Politeknik Caltex Riau. This project applies the concept of deep learning and image processing with Python to identify the inputed images and classify them based on color.
+
+Project was built with Python for identify process, HTML, Javascript, JQuery and styling with TailwindCSS.
 [Click here for preview project](https://hibatillah.github.io/ProjectPD)
